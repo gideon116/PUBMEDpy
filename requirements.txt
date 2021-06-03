@@ -1,4 +1,4 @@
-pymed import PubMed
+pymed
 json
 requests
 dash
