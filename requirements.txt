@@ -2,7 +2,7 @@ pymed import PubMed
 json
 requests
 dash
-dash_core_components as dcc
-dash_html_components as html
+dash_core_components
+dash_html_components
 os
-dash import no_update
+
