@@ -1,7 +1,2 @@
-
-json
-requests
-dash
-
-os
+numpy
 
