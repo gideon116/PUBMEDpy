@@ -1,4 +1,4 @@
-pymed
+
 json
 requests
 dash
