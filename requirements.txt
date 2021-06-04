@@ -1,5 +1,3 @@
 PubMed
 json
-numpy as np
-
-
+numpy
