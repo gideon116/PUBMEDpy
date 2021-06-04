@@ -2,7 +2,6 @@ pymed
 json
 requests
 dash
-dash_core_components
-dash_html_components
+
 os
 
