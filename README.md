@@ -3,7 +3,7 @@
 
 #### (1) Open the Python file
 #### (2) Enter a keyword or phrase
-#### (3) Enter the name of the directory you want to save the output txt file containing PMIDs. For example: "/Users/Name/Desktop/"
+#### (3) Enter the name of the directory you want to save the output txt file containing PMIDs. For example: "/Users/Name/Desktop"
 #### (4) Download the search result from the [PubMed](https://pubmed.ncbi.nlm.nih.gov) website
   * Enter a keyword or phrase and click on "Search"
   * (b) Click on "Save"
